@@ -1,0 +1,204 @@
+    1  ls
+    2  ls
+    3  CD ..
+    4  cd ..
+    5  ls
+    6  cd CP360068/
+    7  ls
+    8  mkdir git-basic-exercises
+    9  cd git-basic-exercises/
+   10  ls -a
+   11  git init
+   12  ls -a
+   13  git status
+   14  touch README.md
+   15  ls -a
+   16  git status
+   17  git log
+   18  git add
+   19  git status
+   20  git add .
+   21  git status
+   22  git commit -m "initial commit"
+   23  git log
+   24  q
+   25  q.
+   26  [200~q~
+   27  mkdir
+   28  mkdir git-basic-exercises
+   29  cd
+   30  ls a-
+   31  ls -a
+   32  git init.
+   33  init.
+   34  git init
+   35  ls -a
+   36  git status
+   37  mkdir git-basic-exercises
+   38  cd
+   39  ls -a
+   40  git init
+   41  ls -a
+   42  git status.
+   43  git status
+   44  touch README.md
+   45  ls -a
+   46  git status
+   47  git log
+   48  git add README.md
+   49  git status
+   50  mkdir git-basic-exercises
+   51  cd
+   52  mkdir git-basic-exercises
+   53  cd
+   54  git init
+   55  ls -a
+   56  git status
+   57  mkdir git-basic-exercises
+   58  cd
+   59  ls -a
+   60  git init
+   61  ls -a
+   62  mkdir git-basic-exercises
+   63  cd git-basic exercises
+   64  cd git-basic-exercises
+   65  ls -a
+   66  git init
+   67  ls -a
+   68  git status
+   69  touch README.md
+   70  ls -a
+   71  git status
+   72  git log
+   73  git add README.md
+   74  git status
+   75  git commit -m "initial commit"
+   76  git log
+   77  git remote add origin https://github.com/KaylinReed/git-basic-exercises.git
+   78  git branch -M main
+   79  git push -u origin main
+   80  [200~git remote add origin https://github.com/KaylinReed/git-basic-exercises.git~
+   81  mkdir git-basic-exercises
+   82  cd git-basic-exercises/
+   83  ls -a
+   84  git init
+   85  ls -a
+   86  git
+   87  git status
+   88  touch README.md
+   89  ls -a
+   90  git status
+   91  git log
+   92  git add README.md
+   93  git status
+   94  git commit -m "initial commit"
+   95  git log
+   96  nano README.md
+   97  y
+   98  cat README.md
+   99  nano README.md
+  100  cat README.md
+  101  git status
+  102  git add README.md
+  103  git commit -m "second commit"
+  104  nano README.md
+  105  cat README.md
+  106  git status
+  107  git commit -m "third commit"
+  108  git add README.md
+  109  git commit -m "third commit"
+  110  git log
+  111  q
+  112  git checkout
+  113  git checkout a368c53419d3df186f3f05c8f144e5e8f10ca6e8
+  114  cat README.md
+  115  git checkout main
+  116  git checkout master
+  117  cd Documents/git-basic-exercises/
+  118  ls -a
+  119  git init
+  120  ls -a
+  121  git status
+  122  touch README.md
+  123  ls-a
+  124  ls -a
+  125  git status
+  126  git add README.md
+  127  git status
+  128  git commit -m 'initial commit'
+  129  git config --global user.name "Kaylin Reed"
+  130  git config --global user.email "kaylinchardonnay96@icloud.com"
+  131  git log
+  132  nano READ.md
+  133  cat READ.md 
+  134  git status
+  135  git status
+  136  git add README.md
+  137  git commit -m 'second commit'
+  138  git add README.md
+  139  git status
+  140  git add READ.md 
+  141  git add README.md 
+  142  ls 
+  143  git status
+  144  rm -rf READ
+  145  ls
+  146  rm -rf READ.md 
+  147  ls
+  148  cat README.md
+  149  nano README.md 
+  150  git status
+  151* g
+  152  git status
+  153  git commit -m 'second commit'
+  154  git status
+  155  cd ..
+  156  rm -rf git-basic-exercises/
+  157  mkdir git-basic-exercises
+  158  cd git-basic-exercises/
+  159  git init
+  160  touch README.md
+  161  git status
+  162  git log
+  163  git add README.md
+  164  git status
+  165  git commit -m 'initial commit'
+  166  git log
+  167  nano README.md 
+  168  git status
+  169  cat README.md 
+  170  git add README.md 
+  171  git status
+  172  git uncommit README.md 
+  173  git commit -m 'second commit'
+  174  git log
+  175  git status
+  176  nano README.md 
+  177  git status
+  178  git add README.md 
+  179  git commit -m 'third commit'
+  180  git log
+  181  git checkout 3fc6b23834250fe9316237bb7f85d6b25b8fa0ac
+  182  cat README.md
+  183  ls
+  184  git checkout main
+  185  git checkout master
+  186  git branch milkshake-flavours
+  187  git branch
+  188  git checkout milkshake-flavours
+  189  nano milkshakes.md
+  190  git status
+  191  cat milkshakes.md 
+  192  git commit -m 'added initial flavours'
+  193  git add milkshakes.md 
+  194  git commit -m 'added initial flavours'
+  195  git log
+  196  git status
+  197  git checkout master
+  198  git status
+  199  git log
+  200  git branch history
+  201  git checkout history
+  202  git log
+  203  git branch
+  204  history > history.txt
